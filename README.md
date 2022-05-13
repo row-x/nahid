@@ -86,15 +86,11 @@
  1. Now compile the code with appt2.
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
   ### PoC Video 
- 1. https://youtu.be/i3JAHcsWwu0 (old video)
+ 1. https://youtube.com/channel/UCf8S-C-ZjSrR0uYvUaVEHKQ
   ### Tutorial Videos
-  1. https://youtu.be/an2BALW73j4 (SPHANTER)
-  1. https://youtu.be/atSX_YDniyM (Mr.Ethical YT)
+  1. https://youtube.com/channel/UCf8S-C-ZjSrR0uYvUaVEHKQ
+  1. https://youtube.com/channel/UCf8S-C-ZjSrR0uYvUaVEHKQ
 
-### ❤️Supporters❤️
-[![Stargazers repo roster for @th30neand0nly/AIRAVAT](https://reporoster.com/stars/dark/Th30neAnd0nly/AIRAVAT)](https://github.com/Th30neAnd0nly/AIRAVAT/stargazers)
-
-[![Forkers repo roster for @th30neand0nly/AIRAVAT](https://reporoster.com/forks/dark/Th30neAnd0nly/AIRAVAT)](https://github.com/Th30neAnd0nly/AIRAVAT/network/members)
 
 ## AIRAVAT PRO <img src='WEB PANEL/img/logo.png' style="height:30px;width:30px;" >
  1. Read , Delete files from victim's device
@@ -105,10 +101,10 @@
  1. Auto Start Permission for all chinese vendors.
  1. Hidden App without Foreground service notification (full stealth mode)
   ### PoC Video
-  1. https://youtu.be/wWjJjaJEVAg
+  1. https://youtube.com/channel/UCf8S-C-ZjSrR0uYvUaVEHKQ
 
 ## Contact Info 
- 1. [Telegram](https://t.me/th30neand0nly)
+ 1. [Telegram](https://t.me/nahid_afridy)
 
 
 ## DISCLAIMER
@@ -117,7 +113,7 @@
 </p>
 
 
-The use of the AIRAVAT is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
+The use of the NAHID-AFRIDY is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
 
 
 
